@@ -1,6 +1,7 @@
 # Free Software for Education
 
 #HSLIDE
+<!-- .slide: data-autoslide="1000" -->
 
 ### Software today
 
